@@ -1,3 +1,7 @@
+# Metflixer
+
+Projet : formulaire. Il s'agit d'une app qui permet d’enregistrer des informations sur l’utilisateur (nom, adresse mail) et de les stocker sur firebase. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
